@@ -5,7 +5,7 @@ Data is sourced from Snowflake DWH, transformed through dbt models, and material
 ## Tech Stack
 - Warehous: Snowflake
 - Transformation: dbt
-- Orchestration: Airflow
+- Orchestration: Airflow (astronomer-cosmos)
 - Language: SQL (Jinja)
 - Configuration: Python (uv)
 - Version Control: Git/Github
